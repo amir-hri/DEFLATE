@@ -1,3 +1,2 @@
 # DEFLATE
-DEFLATE Compression Algorithm \n
-Complete implementation of the DEFLATE compression algorithm.
+Complete implementation of the DEFLATE compression algorithm in Python
